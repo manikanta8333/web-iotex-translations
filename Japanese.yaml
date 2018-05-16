@@ -1,0 +1,191 @@
+about.this.file: >-
+  Strings in different locales are auto-generated and maintained by
+  locale_strings.js.
+charity.donated: 寄付された
+charity.more-info: IoTeX チャリティープログラムの詳細 
+charity.question: 私はどのようにしてIoTeXを知ったのですか？なぜ私はそれに興味がありますか？
+charity.share-message: 親切なことを分かち合う！
+charity.to: に
+charity.tweet.summary.description: >-
+  あなたのビッグハートに感謝します！ 1回限りの16,000ポイント
+  感謝の贈り物、今私はあなたの善行をIoTeXのウェブサイトに入れました！
+charity.tweet.summary.image: >-
+  https://s3.amazonaws.com/web-iotex-static/home/1st-charity-twitter-summary-image-v2.png
+charity.tweet.summary.title: あなたはIoTeX名誉委員会にいます！
+claim.btn: あなたのポイントを求める
+contact.btn: お問い合わせ
+contact.desc: IoTeX のエキスパートは、support@iotex.io を介してご質問にお答えします。
+contact.title: タッチにとどまる
+ethFoundation: エテリアム財団
+hall-of-fame.badge-section.title: IoTeX 第1チャリティープログラム -  ETH財団
+hall-of-fame.badge-section.unicorn.desc: >
+  エテリアムは過去4年間、ブロックチェーンの世界に革命をもたらしました。
+  最新の流行語であるブロックチェインを作った。業界リーダーとして、Ethereumは
+  提供された<a target="_blank"
+  href="https://blog.ethereum.org/2018/03/07/announcing-beneficiaries-ethereum-foundation-grants/">grants</a>
+  研究者や開発者に様々な前向きな立場で協力して支援する
+  ブロックチェーンの生態系全体 IoTeX は、私たちが
+  厳しい研究と協力を通じ、業界全体を推進します。我々
+  世界には才能と輝かしい心が必要です。小さな
+  ETHを Ethereum に寄付することです
+  ブロックチェーン研究の資金提供を支援する財団。
+
+
+  参加の詳細については、公式に参加してください <a target="_blank"
+  href="https://t.me/IoTeXGroup">Telegram Group</a> 固定された
+  メッセージ。
+
+
+  固定された  メッセージ。t <a target="_blank"
+  href="https://medium.com/@iotex/iotex-1st-charity-program-update-d1959e67e756">IoTeX
+  第1回チャリティープログラムのアップデート</a>.
+hall-of-fame.search.label: あなたのハッシュIDまたは優先表示名で検索する
+hall-of-fame.thank-you.message: >
+  慈善団体の特定の原因に資金を提供する手段としての Crowdsourcing は新しいものではありませんが、
+  IoTeX は「スマートコントラクト」を介してこれを実行し、暗号侵害をリダイレクトします
+  誇大宣伝今後数ヶ月で、コミュニティ報酬の下で
+  プログラムでは、IoTeXは引き続き、
+  IoTeX の「Physical World、Block by Block」の使命は、
+  IoTeX のコミュニティ報酬プログラム。
+
+
+  IoTeX はコミュニティと一緒に成長し、
+  ブロックごとに物理的な世界。非常に野心的な目標だが、
+  強力なチームと協力的なコミュニティで達成されました。一緒に
+  コミュニティはブロックチェーンの開発のためのフロンティアを押し進める
+  IoTeX はコミュニティがオリジナルを理解できることを真に望んでいます
+  原因を促進し、原因を促進するのに役立ちます。
+hall-of-fame.title: IoTeX チャリティー
+home.about.inno.0.desc.keep: >-
+即時性と低レイテンシを備えた数百万のノードをサポートし、
+  環境に優しい、IoT 用に設計された
+home.about.inno.0.title.keep: 速い合意
+home.about.inno.1.desc.keep: >-
+ プラズマ のように、ルートチェーンから状態を引き離してプライバシーをさらに向上させ、
+  スケーラビリティと相互運用性。価値の革新的なクロスチェーン移転
+  データ
+home.about.inno.1.title.keep: ブロックチェーンのブロックチェーン
+home.about.inno.2.desc.keep: >-
+  軽量ステルスのような革新的な暗号方式によるプライバシーの最大化
+  アドレスと一定サイズのリング署名
+home.about.inno.2.title.keep: 組み込みのプライバシー保護技術
+home.about.inno.3.desc.keep: 「IoTのための地方分権化された自治組織、コードはロボット世界のための法律である」
+home.about.inno.3.title.keep: 自律的な装置調整
+home.about.sol.desc1: >-
+  その急速な進化にもかかわらず、IoTはまだ大量採用には至っておらず、
+  新しいユーザーを生態系に引き込む「キラーアプリケーション」が欠けている
+  低スケーラビリティ、高い運用コスト、プライバシーに関する懸念、欠如などの問題
+  機能的な値の
+home.about.sol.desc2: >-
+ IoTeXはIoT空間にトークン経済を導入することでこの問題に取り組んでいます。
+  私たちは、暗号インセンティブだけでなくコミュニティの取り組みが
+  IoT空間におけるイノベーションを促進する2つの主要な力。要するに、IoTeXは
+  強力なスケーラビリティを備えた次世代のIoT指向のブロックチェーンプラットフォーム、
+  新しいIoTアプリケーションをインキュベートするためのプライバシー、分離可能性および開発可能性
+  そして生態系。
+home.decentralized-protocol: インターネットのための分散型ネットワーク
+home.dustin.desc.keep: >-
+ USCの博士号データセキュリティ。インテルのスタッフソフトウェアエンジニア。 12年の
+  分散システムにおける専門知識、コンテンツ保護、ハードウェアビデオ
+  アクセラレーション、ネットワークビデオストリーミング、グラフィックドライバ。暗号と
+  ブロックチェーン愛好家。
+home.dustin.name.keep: ダスティン・シャー
+home.dustin.title.keep: ブロックチェーンエンジニア
+home.fan.desc.keep: >-
+  以前はセコイア・キャピタル・チャイナ・チャイナの設立パートナー、
+  DFJ ePlanet Ventures のディレクター。大手ベンチャー企業の1つとしてフォーブスにランクイン
+  中国のマイダス・リスティングの資本家。
+home.fan.name.keep: Fan insistence
+home.fan.title.keep: ヌル
+home.guang.desc.keep: >-
+  IEEEフェロー。カナダワーテルロー大学教授。上の科学者
+  暗号および軽量暗号、アドホックネットワークおよび無線周波数
+  識別（RFID）セキュリティ。
+home.guang.name.keep: Guang Gong
+home.guang.title.keep: ヌル
+home.jack.desc.keep: >-  
+Foxconnテクノロジーグループ、HCMキャピタルの共同創業者。
+  創設者＆エグゼクティブ、チェーン・ファイナンス・リミテッドの共同創設者兼エグゼクティブ・ディレクター
+  FnConnのディレクター、Abraの取締役会長を務めています。
+home.jack.name.keep: Jack Lee
+home.jack.title.keep:ヌル
+home.jing.desc.keep: >-
+  Frontier Techに焦点を当てたSparkland Capitalの設立パートナーは、40 +
+  ブロックチェーン、セキュリティ、IoTにおける投資と革新。取締役会長
+  多数の企業。スタートアップ、投資、ビルディングでの豊富な経験
+  アップエコシステム。
+home.jing.name.keep: Jing Sun
+home.jing.title.keep: 共同 - 創設者
+home.larry.desc.keep: >-
+  デジタルオペレーションを専門とするOliver Wymanの経営コンサルタント。デュアル
+  B.S. MITの視覚芸術＆デザイン学部ではマイナーな経歴を持っています。
+  ブロックチェーンとIoT愛好家。
+home.larry.name.keep: Larry Pang
+home.larry.title.keep: 成長とコミュニティ
+home.monika.desc.keep: >-
+  サイバーセキュリティの深い専門知識を持つテクノロジーコミュニケーションのスペシャリスト、
+  プライバシー、ネットワーキング、新興テクノロジーなどがあります。
+home.monika.name.keep: Monika Hathaway
+home.monika.title.keep: コミュニケーション
+home.paddy.desc.keep: >-
+  Microsoftのシニアソフトウェアエンジニア、分散システムに特化しています。
+  オープンソースプロジェクトへの積極的な貢献者。ミズ。イェールでのコンピュータサイエンス
+  大学。
+home.paddy.name.keep: Paddy Kan
+home.paddy.title.keep: 分散システム
+home.powered-by: プライバシー中心のブロックチェーンを搭載
+home.qevan.desc.keep: >-  
+国立大学の機械学習とコンピュータビジョンの博士号
+  シンガポール。 Facebookのエンジニアリングマネージャーと研究科学者。成長
+  ハッカー。スタートアップの投資家と顧問。 20以上の出版物/特許。
+home.qevan.name.keep: Qevan Guo
+home.qevan.title.keep: 共同 - 創設者
+home.raullen.desc.keep: >-
+  UWaterlooの暗号学におけるPh.DとResearch Scientist Crypto R＆Dの責任者
+  Googleのセキュリティエンジニア、Uber 8年以上の暗号の経験
+  ブロックチェイン。
+home.raullen.name.keep: Raullen Chai
+home.raullen.title.keep: 共同 - 創設者
+home.section.advisors: IoTeX.顧問
+home.section.arch: IoTeX.建築
+home.section.innovations: IoTeX.イノベーション
+home.section.investors: IoTeX.投資家
+home.section.partners: IoTeX.戦略的パートナー
+home.section.roadmap: IoTeX.ロードマップ
+home.section.team: IoTeX.チーム
+home.section.teamfrom: IoTeX.チーム.バックグラウンド
+home.section.useceses: IoTeX.ユースケース
+home.site.description: >-
+  インターネットのための分散型ネットワーク（IoT）
+  オートスケーラブルで拡張可能なプライベートセントリックブロックチェーン。物理的な接続
+  世界、ブロックごとにブロック。
+home.slogan: 物理ワールドブロックとブロックの接続
+home.xinxin.desc.keep: >-
+  UWaterlooの暗号学における博士号。ボッシュ・リサーチのシニア・リサーチ・エンジニア。 14
+  情報セキュリティと暗号の研究と産業の長年の経験
+  40以上の出版物/特許。
+home.xinxin.name.keep: 新シンファン
+home.xinxin.title.keep: 暗号学部長
+home.zhefeng.desc.keep: >-
+  カリフォルニア大学サンディエゴ校と学士号のコンピュータサイエンス修士号
+  ウィスコンシン大学マディソン校の数学とコンピューターサイエンスで
+  ブロックチェインの技術、機械学習、物事の愛好家のインターネット。
+home.zhefeng.name.keep: Zhefeng Li
+home.zhefeng.title.keep: ブロックチェーンエンジニア
+stonevan.twitter: >-
+  私はちょうど彼らの最初のTestnetを祝うことによってIoTeXから100無料ポイントを得た
+  リリースをプレビューします。 @iotex_io来てください！
+subscribe.btn: 申し込む
+subscribe.desc: 最新の進歩とイベントで
+subscribe.title: 更新されたまま
+testnet-preview.home-title: Testnet Preview（StoneVan）がリリースされる
+testnet-preview.released-event-title: テストネットのプレビューがリリースされました！
+testnet-preview.released-title: テストネットのプレビューがリリースされました
+topbar.blog: ブログ
+topbar.careers: キャリア
+topbar.charity: 慈善
+topbar.faq: FAQ
+topbar.home: ホーム
+topbar.white-paper: 白書
+whitepaper.button.next: 次
+whitepaper.button.previous: 前
